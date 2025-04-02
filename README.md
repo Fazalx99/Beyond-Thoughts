@@ -29,7 +29,7 @@ The **Dynamic Discussion Web Application** is an interactive platform designed t
 ### Steps:
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-repo/discussion-webapp.git
+   git clone (https://github.com/Fazalx99/Beyond-Thoughts.git)
    cd discussion-webapp
    ```
 2. Install dependencies:
