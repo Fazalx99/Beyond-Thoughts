@@ -1,4 +1,4 @@
-Deployed link- https://beyondthoughts.netlify.app/
+Deployed link- https://beyond-thoughts.netlify.app/
 
 # 🌐 Beyond Thoughts
 
